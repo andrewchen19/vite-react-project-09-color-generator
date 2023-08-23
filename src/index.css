@@ -254,7 +254,7 @@ ul {
 /* ============= PROJECT CSS =============== */
 
 .container {
-  border: 2px red solid;
+  /* border: 2px red solid; */
   padding: 2rem;
   display: grid;
   row-gap: 1.5rem;
